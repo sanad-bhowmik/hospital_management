@@ -1,6 +1,6 @@
 # Hospital Management System
 
-![Hospital Management System](https://via.placeholder.com/800x200.png?text=Hospital+Management+System) <!-- Replace with an actual logo or image URL -->
+![Hospital Management System](https://placehold.co/1200x300/red/white?text=Hospital+Management+System) <!-- Replace with an actual logo or image URL -->
 
 ## Table of Contents
 
